@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "6a7a545c88c6b48b64f7",
+  "revision": "961ceeff7e139a3262a2",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -121,6 +121,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Imma Love You — Rap Barbie; fonte: https://freemusicarchive.org/music/rap-barbie/single/imma-love-you/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-bdf2e2502192738ed8c3/imma-love-you-0e63aaae-0e63aaaed3e5.mp3"
+    },
+    {
+      "id": "motor-on-dfd28c64",
+      "title": "Motor On",
+      "artist": "Troigo",
+      "sha256": "dfd28c649e67ff81538fbd9161602945be56281c0efe1d2ff5631413213af878",
+      "bytes": 8769728,
+      "source_url": "https://freemusicarchive.org/music/troigo/the-medicine-ep/motor-on/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Motor On — Troigo; fonte: https://freemusicarchive.org/music/troigo/the-medicine-ep/motor-on/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-e95a73745c1f869d7c9b/motor-on-dfd28c64-dfd28c649e67.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
