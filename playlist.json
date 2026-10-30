@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "47fb051a758d89b7b426",
+  "revision": "9e6a44a0a985d6be4ad6",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -73,6 +73,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "license_code": "CC-BY-4.0",
       "credit": "Bad Nostalgia — Anthem of Rain; fonte: https://freemusicarchive.org/music/anthem-of-rain/freedom/bad-nostalgia/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "id": "everthing-he-touches-scat-ebd0b696",
+      "title": "Everthing He Touches SCAT",
+      "artist": "Lopkerjo",
+      "sha256": "ebd0b69696e3c1161ff37a9da7bad9125ad484787441f366d03363e4edb67b2e",
+      "bytes": 7364517,
+      "source_url": "https://freemusicarchive.org/music/john-lopker/everything-he-touches/everthing-he-touches-scat/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Everthing He Touches SCAT — Lopkerjo; fonte: https://freemusicarchive.org/music/john-lopker/everything-he-touches/everthing-he-touches-scat/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-685d87c9d885f9a5b433/everthing-he-touches-scat-ebd0b696-ebd0b69696e3.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
