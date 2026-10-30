@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "d24e2dc7397004971849",
+  "revision": "858848194651d5a12501",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -205,6 +205,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Over It, Out Of It — Troigo; fonte: https://freemusicarchive.org/music/troigo/the-gold-standard/over-it-out-of-it/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-26250a164ae07c1d1558/over-it-out-of-it-4814a2d7-4814a2d78191.mp3"
+    },
+    {
+      "id": "popular-bean-soup-c14d2f61",
+      "title": "Popular Bean Soup",
+      "artist": "Lopkerjo",
+      "sha256": "c14d2f6103f4706ecb6c383e53cc2a1b8910de7778ac1aa01647a8febf5facf2",
+      "bytes": 3656268,
+      "source_url": "https://freemusicarchive.org/music/john-lopker/sound-n-fury/popular-bean-soup/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Popular Bean Soup — Lopkerjo; fonte: https://freemusicarchive.org/music/john-lopker/sound-n-fury/popular-bean-soup/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-04cce9e6a7d6ce69137c/popular-bean-soup-c14d2f61-c14d2f6103f4.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
