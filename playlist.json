@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "f8ac53047fed8fd7d22e",
+  "revision": "16f8210efcdee54a463d",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -157,6 +157,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Something Elated — Broke For Free; fonte: https://freemusicarchive.org/music/Broke_For_Free/Something_EP/Broke_For_Free_-_Something_EP_-_05_Something_Elated/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-1a5b4f56bfc2368bb351/something-elated-644c0786-644c07861766.mp3"
+    },
+    {
+      "id": "never-let-go-4c76bc59",
+      "title": "Never Let Go",
+      "artist": "Amarent",
+      "sha256": "4c76bc59cd679a9c5428f2656a8c29f9d2ae89e5fbee4d1d0a860e6af181a6b1",
+      "bytes": 6597493,
+      "source_url": "https://freemusicarchive.org/music/amarent/free-soft-pop/never-let-go/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Never Let Go — Amarent; fonte: https://freemusicarchive.org/music/amarent/free-soft-pop/never-let-go/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-a5a7881234577271876f/never-let-go-4c76bc59-4c76bc59cd67.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
