@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "33859f35b98ae6dc2b76",
+  "revision": "eb6d36fc352dd7211fad",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -97,6 +97,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Ng'yahamba (ft. DJ Citie) — Stella Jacobs; fonte: https://freemusicarchive.org/music/stella-jacobs/single/stella-jacobs-ngyahamba-ft-dj-citiemp3/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-784f9220bacbea314309/ng-yahamba-ft-dj-citie-7ccb7e17-7ccb7e17ff72.mp3"
+    },
+    {
+      "id": "island-vibe-clean-8e3f8a20",
+      "title": "Island Vibe (Clean)",
+      "artist": "Creepzz",
+      "sha256": "8e3f8a20c1f4008de24ae6f003a0afb8f6be294ca6d83a12763000f4972bd678",
+      "bytes": 6069866,
+      "source_url": "https://freemusicarchive.org/music/creepzz/single/island-vibe-clean/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Island Vibe (Clean) — Creepzz; fonte: https://freemusicarchive.org/music/creepzz/single/island-vibe-clean/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-94a5fb0dd41c7e0b14e6/island-vibe-clean-8e3f8a20-8e3f8a20c1f4.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
