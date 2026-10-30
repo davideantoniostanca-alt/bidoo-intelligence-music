@@ -1,0 +1,80 @@
+{
+  "schema_version": "bidoo-music-1",
+  "revision": "47fb051a758d89b7b426",
+  "tracks": [
+    {
+      "id": "moonlove-funk",
+      "title": "Moonlove Funk",
+      "artist": "Cullah",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030-v1/moonlove-funk-8fb7c202ea08.mp3",
+      "sha256": "8fb7c202ea084ea7b6ac647f7bfb721070bbab7833328f3bd223593f8e5d6c43",
+      "bytes": 8260948,
+      "source_url": "https://freemusicarchive.org/music/MC_Cullah/Cullahsus/01%20-%20Moonlove_Funk/",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_code": "CC-BY-4.0",
+      "credit": "Moonlove Funk — Cullah; fonte: https://freemusicarchive.org/music/MC_Cullah/Cullahsus/01%20-%20Moonlove_Funk/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "id": "ay-mijo",
+      "title": "Ay Mijo",
+      "artist": "Troigo",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030-v1/ay-mijo-faf1d0a0c257.mp3",
+      "sha256": "faf1d0a0c2575cefafa442e5d040e9be172a80739528cd4f962b41ef542f6cca",
+      "bytes": 4221420,
+      "source_url": "https://freemusicarchive.org/music/troigo/single/ay-mijo/",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_code": "CC-BY-4.0",
+      "credit": "Ay Mijo — Troigo; fonte: https://freemusicarchive.org/music/troigo/single/ay-mijo/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "id": "strange-italian-song",
+      "title": "Strange Italian Song",
+      "artist": "Juanitos",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030-v1/strange-italian-song-bd03da17ff0e.mp3",
+      "sha256": "bd03da17ff0eacd2e3eb7e2567ba58150e5d7682e174ec250c34cad203da0ec1",
+      "bytes": 7149556,
+      "source_url": "https://freemusicarchive.org/music/Juanitos/Exotica/juanitos_-_10_-_strange_italian_song/",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "license_code": "CC-BY-2.0-FR",
+      "credit": "Strange Italian Song — Juanitos; fonte: https://freemusicarchive.org/music/Juanitos/Exotica/juanitos_-_10_-_strange_italian_song/; licenza: CC-BY-2.0-FR (https://creativecommons.org/licenses/by/2.0/fr/)"
+    },
+    {
+      "id": "departures",
+      "title": "Departures",
+      "artist": "Portrayal",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030-v1/departures-a0146ee406b3.mp3",
+      "sha256": "a0146ee406b3eec858ca4e097f0e9fe3ea82e5404224f6e52d1a3860e4f02a6c",
+      "bytes": 8342563,
+      "source_url": "https://freemusicarchive.org/music/Portrayal/to-the-black-sea/departures/",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_code": "CC-BY-4.0",
+      "credit": "Departures — Portrayal; fonte: https://freemusicarchive.org/music/Portrayal/to-the-black-sea/departures/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "id": "call-it-luck",
+      "title": "Call It Luck",
+      "artist": "Troigo",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030-v1/call-it-luck-2b48d5592ea6.mp3",
+      "sha256": "2b48d5592ea61265b6340985856a0878e272eb94612d2a7d511f6de269583027",
+      "bytes": 7050260,
+      "source_url": "https://freemusicarchive.org/index.php/music/troigo/single/call-it-luck/",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_code": "CC-BY-4.0",
+      "credit": "Call It Luck — Troigo; fonte: https://freemusicarchive.org/index.php/music/troigo/single/call-it-luck/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "id": "bad-nostalgia",
+      "title": "Bad Nostalgia",
+      "artist": "Anthem of Rain",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030-v1/bad-nostalgia-f0b7f8627563.mp3",
+      "sha256": "f0b7f8627563215831e7d0b7e3b25d0e50af21af473da14b3015ab020375e21e",
+      "bytes": 2229206,
+      "source_url": "https://freemusicarchive.org/music/anthem-of-rain/freedom/bad-nostalgia/",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_code": "CC-BY-4.0",
+      "credit": "Bad Nostalgia — Anthem of Rain; fonte: https://freemusicarchive.org/music/anthem-of-rain/freedom/bad-nostalgia/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)"
+    }
+  ],
+  "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
+  "cache_max_bytes": 268435456
+}
