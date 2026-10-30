@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "eb6d36fc352dd7211fad",
+  "revision": "6a7a545c88c6b48b64f7",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -109,6 +109,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Island Vibe (Clean) — Creepzz; fonte: https://freemusicarchive.org/music/creepzz/single/island-vibe-clean/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-94a5fb0dd41c7e0b14e6/island-vibe-clean-8e3f8a20-8e3f8a20c1f4.mp3"
+    },
+    {
+      "id": "imma-love-you-0e63aaae",
+      "title": "Imma Love You",
+      "artist": "Rap Barbie",
+      "sha256": "0e63aaaed3e57381e8ce2530cd96339ea2573109a696880c54791defa953261d",
+      "bytes": 6502483,
+      "source_url": "https://freemusicarchive.org/music/rap-barbie/single/imma-love-you/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Imma Love You — Rap Barbie; fonte: https://freemusicarchive.org/music/rap-barbie/single/imma-love-you/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-bdf2e2502192738ed8c3/imma-love-you-0e63aaae-0e63aaaed3e5.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
