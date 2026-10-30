@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "9eaa77bfd1a079ce7f46",
+  "revision": "69a9ace19ea64c32b387",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -229,6 +229,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Intimissimi — 3AS; fonte: https://www.youtube.com/watch?v=38yBzQxPdDQ&list=RD38yBzQxPdDQ&start_radio=1; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-b418f03b08f251bbf5a1/intimissimi-86dcab4a-86dcab4a4b53.mp3"
+    },
+    {
+      "id": "night-sky-ft-julia-mihevc-40c8fde5",
+      "title": "Night Sky (ft. Julia Mihevc)",
+      "artist": "Leonell Cassio",
+      "sha256": "40c8fde5ac884db3ebb13882e5d3196de4b5fe2c8c26506d0cd1783810e54003",
+      "bytes": 3092483,
+      "source_url": "https://freemusicarchive.org/music/leonell-cassio/single/leonell-cassio-night-sky-ft-julia-mihevc/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Night Sky (ft. Julia Mihevc) — Leonell Cassio; fonte: https://freemusicarchive.org/music/leonell-cassio/single/leonell-cassio-night-sky-ft-julia-mihevc/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-d9966fc44e14679a7c17/night-sky-ft-julia-mihevc-40c8fde5-40c8fde5ac88.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
