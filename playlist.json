@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "16f8210efcdee54a463d",
+  "revision": "12eff07b00e2191e1f7d",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -169,6 +169,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Never Let Go — Amarent; fonte: https://freemusicarchive.org/music/amarent/free-soft-pop/never-let-go/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-a5a7881234577271876f/never-let-go-4c76bc59-4c76bc59cd67.mp3"
+    },
+    {
+      "id": "funk-in-the-trunk-c1b58f17",
+      "title": "Funk In The Trunk",
+      "artist": "Shane Ivers",
+      "sha256": "c1b58f1749dc3cb9e185bdda9f0f925cc88eaa0c0c27bd3d28d43e0cfe39ffe1",
+      "bytes": 4506562,
+      "source_url": "https://freemusicarchive.org/music/shane-ivers/single/funk-in-the-trunk/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Funk In The Trunk — Shane Ivers; fonte: https://freemusicarchive.org/music/shane-ivers/single/funk-in-the-trunk/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-93e73aff4c5d814f1d8d/funk-in-the-trunk-c1b58f17-c1b58f1749dc.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
