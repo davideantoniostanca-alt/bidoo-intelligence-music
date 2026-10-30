@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "fc60326ee14e8a0b54ee",
+  "revision": "f8ac53047fed8fd7d22e",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -145,6 +145,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Summer Vibe (Clean) — Creepzz; fonte: https://freemusicarchive.org/music/creepzz/single/summer-vibe-clean/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-3c7304abd98f4941d5ef/summer-vibe-clean-56492891-56492891d571.mp3"
+    },
+    {
+      "id": "something-elated-644c0786",
+      "title": "Something Elated",
+      "artist": "Broke For Free",
+      "sha256": "644c07861766a0575af960990fff394c7343755ff285dfb594dc2ab0231e6589",
+      "bytes": 9471277,
+      "source_url": "https://freemusicarchive.org/music/Broke_For_Free/Something_EP/Broke_For_Free_-_Something_EP_-_05_Something_Elated/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Something Elated — Broke For Free; fonte: https://freemusicarchive.org/music/Broke_For_Free/Something_EP/Broke_For_Free_-_Something_EP_-_05_Something_Elated/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-1a5b4f56bfc2368bb351/something-elated-644c0786-644c07861766.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
