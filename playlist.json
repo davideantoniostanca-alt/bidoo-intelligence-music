@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "858848194651d5a12501",
+  "revision": "9eaa77bfd1a079ce7f46",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -217,6 +217,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Popular Bean Soup — Lopkerjo; fonte: https://freemusicarchive.org/music/john-lopker/sound-n-fury/popular-bean-soup/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-04cce9e6a7d6ce69137c/popular-bean-soup-c14d2f61-c14d2f6103f4.mp3"
+    },
+    {
+      "id": "intimissimi-86dcab4a",
+      "title": "Intimissimi",
+      "artist": "3AS",
+      "sha256": "86dcab4a4b53610a12d2def08b6fa224a128dfa8df1c2425f3564340267c89ee",
+      "bytes": 7014805,
+      "source_url": "https://www.youtube.com/watch?v=38yBzQxPdDQ&list=RD38yBzQxPdDQ&start_radio=1",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Intimissimi — 3AS; fonte: https://www.youtube.com/watch?v=38yBzQxPdDQ&list=RD38yBzQxPdDQ&start_radio=1; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-b418f03b08f251bbf5a1/intimissimi-86dcab4a-86dcab4a4b53.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
