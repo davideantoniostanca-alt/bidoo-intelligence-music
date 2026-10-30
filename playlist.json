@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "961ceeff7e139a3262a2",
+  "revision": "fc60326ee14e8a0b54ee",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -133,6 +133,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Motor On — Troigo; fonte: https://freemusicarchive.org/music/troigo/the-medicine-ep/motor-on/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-e95a73745c1f869d7c9b/motor-on-dfd28c64-dfd28c649e67.mp3"
+    },
+    {
+      "id": "summer-vibe-clean-56492891",
+      "title": "Summer Vibe (Clean)",
+      "artist": "Creepzz",
+      "sha256": "56492891d571ac9739b054f46bc4e68576a927a9375c8d280daa28207d4474d5",
+      "bytes": 5766694,
+      "source_url": "https://freemusicarchive.org/music/creepzz/single/summer-vibe-clean/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Summer Vibe (Clean) — Creepzz; fonte: https://freemusicarchive.org/music/creepzz/single/summer-vibe-clean/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-3c7304abd98f4941d5ef/summer-vibe-clean-56492891-56492891d571.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
