@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "12eff07b00e2191e1f7d",
+  "revision": "d1dae38d080a14368595",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -181,6 +181,18 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Funk In The Trunk — Shane Ivers; fonte: https://freemusicarchive.org/music/shane-ivers/single/funk-in-the-trunk/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-93e73aff4c5d814f1d8d/funk-in-the-trunk-c1b58f17-c1b58f1749dc.mp3"
+    },
+    {
+      "id": "mi-dise-o-32066025",
+      "title": "Mi Diseño",
+      "artist": "Troigo",
+      "sha256": "32066025785d61200fdd3433aade4a10a2bd98cdc8259e8a1257336afcbbc4f5",
+      "bytes": 10537220,
+      "source_url": "https://freemusicarchive.org/music/troigo/single/mi-diseno/",
+      "license_code": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Mi Diseño — Troigo; fonte: https://freemusicarchive.org/music/troigo/single/mi-diseno/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-0771570b17af40f2450b/mi-dise-o-32066025-32066025785d.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
