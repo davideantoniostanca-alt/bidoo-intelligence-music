@@ -1,6 +1,6 @@
 {
   "schema_version": "bidoo-music-1",
-  "revision": "69a9ace19ea64c32b387",
+  "revision": "20261031-pm2-release-url-repair",
   "tracks": [
     {
       "id": "moonlove-funk",
@@ -84,7 +84,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Everthing He Touches SCAT — Lopkerjo; fonte: https://freemusicarchive.org/music/john-lopker/everything-he-touches/everthing-he-touches-scat/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-685d87c9d885f9a5b433/everthing-he-touches-scat-ebd0b696-ebd0b69696e3.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T184243Z-6b2a9c/everthing-he-touches-scat-ebd0b696-ebd0b69696e3.mp3"
     },
     {
       "id": "ng-yahamba-ft-dj-citie-7ccb7e17",
@@ -96,7 +96,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Ng'yahamba (ft. DJ Citie) — Stella Jacobs; fonte: https://freemusicarchive.org/music/stella-jacobs/single/stella-jacobs-ngyahamba-ft-dj-citiemp3/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-784f9220bacbea314309/ng-yahamba-ft-dj-citie-7ccb7e17-7ccb7e17ff72.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T184434Z-6f1186/ng-yahamba-ft-dj-citie-7ccb7e17-7ccb7e17ff72.mp3"
     },
     {
       "id": "island-vibe-clean-8e3f8a20",
@@ -108,7 +108,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Island Vibe (Clean) — Creepzz; fonte: https://freemusicarchive.org/music/creepzz/single/island-vibe-clean/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-94a5fb0dd41c7e0b14e6/island-vibe-clean-8e3f8a20-8e3f8a20c1f4.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T184544Z-7231bb/island-vibe-clean-8e3f8a20-8e3f8a20c1f4.mp3"
     },
     {
       "id": "imma-love-you-0e63aaae",
@@ -120,7 +120,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Imma Love You — Rap Barbie; fonte: https://freemusicarchive.org/music/rap-barbie/single/imma-love-you/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-bdf2e2502192738ed8c3/imma-love-you-0e63aaae-0e63aaaed3e5.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T184704Z-8ac2bc/imma-love-you-0e63aaae-0e63aaaed3e5.mp3"
     },
     {
       "id": "motor-on-dfd28c64",
@@ -132,7 +132,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Motor On — Troigo; fonte: https://freemusicarchive.org/music/troigo/the-medicine-ep/motor-on/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-e95a73745c1f869d7c9b/motor-on-dfd28c64-dfd28c649e67.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T184838Z-3022bf/motor-on-dfd28c64-dfd28c649e67.mp3"
     },
     {
       "id": "summer-vibe-clean-56492891",
@@ -144,7 +144,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Summer Vibe (Clean) — Creepzz; fonte: https://freemusicarchive.org/music/creepzz/single/summer-vibe-clean/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-3c7304abd98f4941d5ef/summer-vibe-clean-56492891-56492891d571.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T185250Z-25659a/summer-vibe-clean-56492891-56492891d571.mp3"
     },
     {
       "id": "something-elated-644c0786",
@@ -156,7 +156,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Something Elated — Broke For Free; fonte: https://freemusicarchive.org/music/Broke_For_Free/Something_EP/Broke_For_Free_-_Something_EP_-_05_Something_Elated/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-1a5b4f56bfc2368bb351/something-elated-644c0786-644c07861766.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T185734Z-a056ca/something-elated-644c0786-644c07861766.mp3"
     },
     {
       "id": "never-let-go-4c76bc59",
@@ -168,7 +168,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Never Let Go — Amarent; fonte: https://freemusicarchive.org/music/amarent/free-soft-pop/never-let-go/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-a5a7881234577271876f/never-let-go-4c76bc59-4c76bc59cd67.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T185854Z-ccebe4/never-let-go-4c76bc59-4c76bc59cd67.mp3"
     },
     {
       "id": "funk-in-the-trunk-c1b58f17",
@@ -180,7 +180,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Funk In The Trunk — Shane Ivers; fonte: https://freemusicarchive.org/music/shane-ivers/single/funk-in-the-trunk/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-93e73aff4c5d814f1d8d/funk-in-the-trunk-c1b58f17-c1b58f1749dc.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T185957Z-cfdd27/funk-in-the-trunk-c1b58f17-c1b58f1749dc.mp3"
     },
     {
       "id": "mi-dise-o-32066025",
@@ -192,7 +192,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Mi Diseño — Troigo; fonte: https://freemusicarchive.org/music/troigo/single/mi-diseno/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-0771570b17af40f2450b/mi-dise-o-32066025-32066025785d.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T190220Z-74e3fe/mi-dise-o-32066025-32066025785d.mp3"
     },
     {
       "id": "over-it-out-of-it-4814a2d7",
@@ -204,7 +204,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Over It, Out Of It — Troigo; fonte: https://freemusicarchive.org/music/troigo/the-gold-standard/over-it-out-of-it/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-26250a164ae07c1d1558/over-it-out-of-it-4814a2d7-4814a2d78191.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T190417Z-74008e/over-it-out-of-it-4814a2d7-4814a2d78191.mp3"
     },
     {
       "id": "popular-bean-soup-c14d2f61",
@@ -216,7 +216,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Popular Bean Soup — Lopkerjo; fonte: https://freemusicarchive.org/music/john-lopker/sound-n-fury/popular-bean-soup/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-04cce9e6a7d6ce69137c/popular-bean-soup-c14d2f61-c14d2f6103f4.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T190556Z-c5acf5/popular-bean-soup-c14d2f61-c14d2f6103f4.mp3"
     },
     {
       "id": "intimissimi-86dcab4a",
@@ -228,7 +228,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Intimissimi — 3AS; fonte: https://www.youtube.com/watch?v=38yBzQxPdDQ&list=RD38yBzQxPdDQ&start_radio=1; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-b418f03b08f251bbf5a1/intimissimi-86dcab4a-86dcab4a4b53.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T190734Z-14de0b/intimissimi-86dcab4a-86dcab4a4b53.mp3"
     },
     {
       "id": "night-sky-ft-julia-mihevc-40c8fde5",
@@ -240,7 +240,7 @@
       "license_code": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "credit": "Night Sky (ft. Julia Mihevc) — Leonell Cassio; fonte: https://freemusicarchive.org/music/leonell-cassio/single/leonell-cassio-night-sky-ft-julia-mihevc/; licenza: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/untagged-d9966fc44e14679a7c17/night-sky-ft-julia-mihevc-40c8fde5-40c8fde5ac88.mp3"
+      "url": "https://github.com/davideantoniostanca-alt/bidoo-intelligence-music/releases/download/music-20261030T190851Z-730f5a/night-sky-ft-julia-mihevc-40c8fde5-40c8fde5ac88.mp3"
     }
   ],
   "media_policy": "GITHUB_RELEASES_DOWNLOAD_ONCE_LOCAL_LOOP",
